@@ -12,6 +12,6 @@
  * @link          https://github.com/museudecienciasunicamp/mexc_contacts.git Mexc Contacts public repository
  */
 
-class MexcContactsAppController extends MexcAppController
+class MexcContactsAppController extends RedeAppController
 {
 }
